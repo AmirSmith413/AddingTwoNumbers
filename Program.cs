@@ -1,10 +1,3 @@
-﻿//Mini Challenge #2
-//Finished on:8/9/22
-//Peer Reviewed by:Valerie Aguilar
-
-
-
-
 
  int num1,num2,sum;
 string Num1;
