@@ -1,4 +1,4 @@
-
+//looks good, it works ~ Liz
  int num1,num2,sum;
 string Num1;
 string Num2;

@@ -1,0 +1,15 @@
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\bin\Debug\net6.0\MIni Challenge #2.exe
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\bin\Debug\net6.0\MIni Challenge #2.deps.json
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\bin\Debug\net6.0\MIni Challenge #2.runtimeconfig.json
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\bin\Debug\net6.0\MIni Challenge #2.dll
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\bin\Debug\net6.0\MIni Challenge #2.pdb
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\MIni Challenge #2.csproj.AssemblyReference.cache
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\MIni Challenge #2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\MIni Challenge #2.AssemblyInfoInputs.cache
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\MIni Challenge #2.AssemblyInfo.cs
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\MIni Challenge #2.csproj.CoreCompileInputs.cache
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\MIni Challenge #2.dll
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\refint\MIni Challenge #2.dll
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\MIni Challenge #2.pdb
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\MIni Challenge #2.genruntimeconfig.cache
+C:\Users\lizg1\AmirRepo\AddingTwoNumbers\obj\Debug\net6.0\ref\MIni Challenge #2.dll
